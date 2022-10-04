@@ -18,5 +18,5 @@ Dm me on discord: scotty#0002 I can do checkers, api's, websites, discord bots, 
 - Create An AIO Checker 🔭
 - Become proficent at C# 🖥️
 - Improve My Focus 🧘‍♂️
-14
+
 
