@@ -15,8 +15,8 @@ Dm me on discord: scotty#0002 I can do checkers, api's, websites, discord bots, 
 
 **Goals for 2023 - 2024**
 
-- Create An AIO Checker 🔭
+- Add 5 New Projects To My Portfolio
 - Become proficent at C# 🖥️
-- Improve My Focus 🧘‍♂️
+- Collaborate With My Brother On A Large Scale Discord Bot 🧘‍♂️
 
 
