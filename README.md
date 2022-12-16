@@ -13,7 +13,7 @@ Dm me on discord: scotty#0002 I can do checkers, api's, websites, discord bots, 
 
 ## I'm Just A Teen Who Loves To Program
 
-**Goals for 2022 - 2023**
+**Goals for 2023 - 2024**
 
 - Create An AIO Checker 🔭
 - Become proficent at C# 🖥️
