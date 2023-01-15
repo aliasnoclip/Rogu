@@ -8,7 +8,7 @@
 
 ### Wanna hire me?
 
-Dm me on discord: aliasv#9999 I can do checkers, api's, websites, discord bots, essentially anything.
+Dm me on discord: alias#9999 I can do checkers, api's, websites, discord bots, essentially anything.
 
 
 ## I'm Just A Teen Who Loves To Program
