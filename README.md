@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Rogu!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliasnoclip&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alias&theme=radical)
 
 
  **I'm currently learning C#**
