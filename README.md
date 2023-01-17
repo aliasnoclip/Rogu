@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Rogu!
+### 👋 Hi, I’m Alias!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliasnoclip&theme=radical)
 
